@@ -16,6 +16,7 @@ Użyj wstrzykiwania poleceń, aby uzyskać odwrotną powłokę
 
 Oto jest nasze polecenie, więc udajmy się na stronie
 ![image](https://github.com/user-attachments/assets/f7742c59-bd87-404b-b98f-5cb294499ea1)
+
 Strona naprawdę wygląda bardzo prosto więc zabierajmy się do pracy.
 Uruchomię sobie w tym przypadku burp suite aby się temu bardziej przyjrzeć
 
