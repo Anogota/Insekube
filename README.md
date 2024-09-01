@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4f76ed62-2c03-4320-8ff7-931fd7fc13ca)Hej, widzimy się ponownie moim walktrought pokoju Insekube. Mam naddzieje, że wszystko Ci spodoba mój sposób tlumaczenia i opisywania tych zawiłości.
+Hej, widzimy się ponownie moim walktrought pokoju Insekube. Mam naddzieje, że wszystko Ci spodoba mój sposób tlumaczenia i opisywania tych zawiłości.
 
   1.Introduction
 Które porty są otwarte? (rozdzielone przecinkami)
